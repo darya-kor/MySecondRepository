@@ -7,5 +7,6 @@
 
   **И ничего не получилось**
 Все-таки получилось с третьей попытки. Чего я только не делала... и с ветки на ветку прыгала, и репозитории меняла-перекидывала, а оказалось, просто не надо было оставлять эти галочки < >.
-Вот эти вот галочки: git remote add origin https://github.com/**<**darya-kor**>**/**<**MySecondRepository**>**.git.
+Галочки вот здесь которые: git remote add origin https://github.com/<darya-kor>/<MySecondRepository>.git.
 Их надо УБРАТЬ НАФИГ.
+Чтобы получилось красиво: git remote add origin https://github.com/darya-kor/MySecondRepository.git.
